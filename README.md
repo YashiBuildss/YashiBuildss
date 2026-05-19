@@ -23,7 +23,7 @@
 
 ### 👩‍💻 About Me
 
-Motivated Full Stack Developer with hands-on experience building
+Full Stack Developer with hands-on experience building
 end-to-end **MERN applications**. Currently expanding into
 **Data Analytics** with Python.
 - 🔭 Currently working on **UInspire** – Visual UI Code Generator
