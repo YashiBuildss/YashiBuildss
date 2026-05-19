@@ -6,8 +6,8 @@
 <!-- Badges -->
 <div align="center">
   <a href="mailto:yashiporwal.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
   <a href="https://www.linkedin.com/in/yashi-porwal-587008222?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
